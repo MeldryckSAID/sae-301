@@ -1,0 +1,1 @@
+import{_ as e}from"./personalisation.vue_vue_type_script_setup_true_lang.29e58b56.js";import{d as n,o as r,k as t}from"./index.cf2aec66.js";import"./FormkitMateriaux.vue_vue_type_script_setup_true_lang.f16fc062.js";const p=n({__name:"[id]",props:{id:null},setup(o){return(a,i)=>(r(),t(e,{id:o.id},null,8,["id"]))}});export{p as default};

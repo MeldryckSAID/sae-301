@@ -1,0 +1,1 @@
+import{d as t,o as e,k as n,_ as o}from"./index.cf2aec66.js";const _=t({__name:"[data]",props:{data:null},setup(a){return(s,r)=>(e(),n(o,{data:JSON.parse(a.data)},null,8,["data"]))}});export{_ as default};
